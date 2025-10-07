@@ -61,6 +61,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"highlight.js": "^11.7.0"
+		"highlight.js": "^11.11.1"
 	}
 }
